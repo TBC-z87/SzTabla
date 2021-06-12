@@ -1,0 +1,2 @@
+# SzTabla
+Szorzótábla
